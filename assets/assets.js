@@ -117,7 +117,7 @@ export const Journeydata = [
         date: "February 2019",
         title: "Secondary School Certificate Exam",
         description:
-            "Completed my SSC exam with a GPA 4.89",
+            "Completed my SSC exam with a GPA 5.00",
     },
     {
         date: "March 2022",
