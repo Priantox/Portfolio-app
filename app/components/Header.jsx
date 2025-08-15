@@ -17,7 +17,7 @@ function Header() {
             Web developer
         </h1>
         <p className='max-w-2xl mx-auto font-Ovo'>
-            I am a biginner level developer from Dhaka, Bangladesh
+            I am a beginner level developer from Dhaka, Bangladesh
         </p>
 
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
